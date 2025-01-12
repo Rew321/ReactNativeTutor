@@ -12,6 +12,13 @@ To start Metro, run the following command from the _root_ of your React Native p
 
 ```bash
 # using npm
+
+
+
+
+
+
+
 npm start
 
 # OR using Yarn
@@ -77,3 +84,16 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+
+
+
+
+<!-- Solving the react native issues -->
+
+# when encountering issue:
+# To update React Native and resolve Gradle issues:
+# Clean the project: Delete the node_modules folder and package-lock.json file.
+# npm install 
+# npm react-native run-android
